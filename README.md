@@ -14,6 +14,9 @@ Para crear un encabezado, agrega uno a seis símbolos # antes del encabezado del
 ###### Encabezado micro Cristian Alejandro García Mendoza
 
 
+# Guía a video:
+[link a video] (https://www.markdownguide.org/cheat-sheet/)
+
 # Guía de MarkDown
 [link a guía](https://www.markdownguide.org/cheat-sheet/)
 Puedes indicar énfasis con texto en negritas, itálicas o tachadas en los campos de comentario y archivos .md
