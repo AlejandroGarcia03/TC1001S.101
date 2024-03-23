@@ -15,7 +15,7 @@ Para crear un encabezado, agrega uno a seis símbolos # antes del encabezado del
 
 
 # Guía a video:
-[link a video] (https://www.markdownguide.org/cheat-sheet/)
+[link a video] (https://youtu.be/ZcSyk3zN5Ns)
 
 # Guía de MarkDown
 [link a guía](https://www.markdownguide.org/cheat-sheet/)
